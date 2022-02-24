@@ -1,4 +1,12 @@
-# wdi5 ![wdi5 Logo](./docs/wdi5-logo-small.png)
+# `wdi5`-legacy: archived copy of `wdi5`
+
+**ATTENTION: this is (probably) not the repository you are looking for!**.  
+
+It is an archived copy of `wdi5` up to version 0.8.2, still including hybrid app support.  
+
+The current version of `wdi5` is at <https://github.com/js-soft/wdi5>
+
+---
 
 `wdi5` (/vdif5/) is a wrapper around [appium](http://appium.io)-driven [`Webdriver.IO`](https://webdriver.io)-tests, utilizing [`UI5`’s test API](https://ui5.sap.com/#/api/sap.ui.test).
 
